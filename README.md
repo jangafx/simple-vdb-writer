@@ -6,7 +6,10 @@ out the [article](https://jangafx.com/2022/09/29/vdb-a-deep-dive/)!
 ## Building
 
 You only need to [install Odin](https://odin-lang.org/docs/install/) if you
-don't have it already and then run the following command:
+don't have it already. Odin version [dev-2022-09](https://github.com/odin-lang/Odin/releases/tag/dev-2022-09)
+was used to compile this code.
+
+You can build the project with the following command:
 
 ```console
 $ odin build .
